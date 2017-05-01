@@ -2,7 +2,7 @@
 
 Use React/Redux to build a Weather Forecast App
 
-Learn React/Redux by [Stephen Grider](https://www.udemy.com/react-redux/)?
+Learn React/Redux by [Stephen Grider](https://www.udemy.com/react-redux/)
 
 ![screenshot](https://cloud.githubusercontent.com/assets/27403702/25586113/6cb5cc06-2ed0-11e7-89b6-180179cf2bab.gif)
 
