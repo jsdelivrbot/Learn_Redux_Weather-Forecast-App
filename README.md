@@ -1,7 +1,9 @@
 # Weather Forecast App
 
 Use React/Redux to build a Weather Forecast App
-Learn React/Redux by [Stephen Grider](https://www.udemy.com/react-redux/)?
+Learn React/Redux by [Stephen Grider](https://www.udemy.com/react-redux/)
+
+![alt text](https://github.com/johnliu8365/Learn_Redux_Weather-Forecast-App/blob/master/screenshot.gif)
 
 1. React native
 2. Redux
